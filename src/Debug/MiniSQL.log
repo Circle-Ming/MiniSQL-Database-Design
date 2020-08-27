@@ -1,0 +1,210 @@
+﻿  API.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\atlmfc\include\afx.h(24): fatal error C1189: #error:  Building MFC application with /MD[d] (CRT dll version) requires MFC shared dll version. Please #define _AFXDLL or do not use /MD[d]
+  APIL.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\atlmfc\include\afx.h(24): fatal error C1189: #error:  Building MFC application with /MD[d] (CRT dll version) requires MFC shared dll version. Please #define _AFXDLL or do not use /MD[d]
+  CatalogCont.cpp
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\catalogin.h(5): fatal error C1083: 无法打开包括文件: “dirent.h”: No such file or directory
+  CatalogIn.cpp
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\catalogin.h(5): fatal error C1083: 无法打开包括文件: “dirent.h”: No such file or directory
+  Index.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\atlmfc\include\afx.h(24): fatal error C1189: #error:  Building MFC application with /MD[d] (CRT dll version) requires MFC shared dll version. Please #define _AFXDLL or do not use /MD[d]
+  Interpreter.cpp
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.h(11): error C2761: “void SQLstatement::outputinfo(void)”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.h(13): error C2761: “{ctor}”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.h(15): error C2761: “STATEMENT_TYPE SQLstatement::identify(std::string)”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.h(17): error C2761: “Condition SQLstatement::genCondition(std::string)”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.h(19): error C2761: “RELATION_TYPE SQLstatement::getRelationType(std::string)”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.h(21): error C2761: “{ctor}”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.h(23): error C2761: “SQLstatement::~SQLstatement(void)”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(11): error C2146: 语法错误: 缺少“;”(在标识符“pri”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(10): error C2065: “pri”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(11): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(383): warning C4018: “<”: 有符号/无符号不匹配
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(832): error C2059: 语法错误:“;”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(837): error C2059: 语法错误:“;”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(842): error C2181: 没有匹配 if 的非法 else
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(852): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(852): error C2065: “SQL”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(853): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(853): error C2065: “SQL”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(853): error C2065: “start”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(853): error C2872: “end”: 不明确的符号
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(852): note: 可能是“int end”
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(853): note: 或  “end”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(854): error C2059: 语法错误:“if”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(855): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(855): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(861): error C2059: 语法错误:“else”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(862): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(862): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(930): error C2059: 语法错误:“}”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(930): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(932): error C2059: 语法错误:“}”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(932): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(936): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(936): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(1072): error C2062: 意外的类型“int”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(1088): error C2065: “length”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(1089): error C2065: “length”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(1090): error C2065: “length”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(1091): error C2065: “length”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(1111): error C2065: “length”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(1112): error C2065: “length”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(1113): error C2065: “length”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(1114): error C2065: “length”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.cpp(1180): error C2065: “temp”: 未声明的标识符
+  MiniSQL.cpp
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\minisql.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.h(11): error C2761: “void SQLstatement::outputinfo(void)”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.h(13): error C2761: “{ctor}”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.h(15): error C2761: “STATEMENT_TYPE SQLstatement::identify(std::string)”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.h(17): error C2761: “Condition SQLstatement::genCondition(std::string)”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.h(19): error C2761: “RELATION_TYPE SQLstatement::getRelationType(std::string)”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.h(21): error C2761: “{ctor}”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\interpreter.h(23): error C2761: “SQLstatement::~SQLstatement(void)”: 不允许重新声明成员
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\atlmfc\include\afx.h(24): fatal error C1189: #error:  Building MFC application with /MD[d] (CRT dll version) requires MFC shared dll version. Please #define _AFXDLL or do not use /MD[d]
+  mybuffer.cpp
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(16): error C3646: “Filename”: 未知重写说明符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(24): error C3646: “getval”: 未知重写说明符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(24): error C2059: 语法错误:“(”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(24): error C2238: 意外的标记位于“;”之前
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(35): error C2061: 语法错误: 标识符“string”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(36): error C2061: 语法错误: 标识符“string”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(38): error C2061: 语法错误: 标识符“string”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(42): error C2061: 语法错误: 标识符“string”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(42): error C2535: “int BufferManager::get_another_buffer(void)”: 已经定义或声明成员函数
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(41): note: 参见“BufferManager::get_another_buffer”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(43): error C3646: “GetPositionForInsert”: 未知重写说明符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(43): error C2059: 语法错误:“(”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(43): error C2238: 意外的标记位于“;”之前
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(44): error C2061: 语法错误: 标识符“Table”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(45): error C2061: 语法错误: 标识符“Index”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(45): error C2535: “int BufferManager::AddAnotherBlock(void)”: 已经定义或声明成员函数
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(44): note: 参见“BufferManager::AddAnotherBlock”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(46): error C2061: 语法错误: 标识符“Table”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(47): error C2061: 语法错误: 标识符“string”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(5): error C2065: “Filename”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(20): error C2143: 语法错误: 缺少“;”(在“buffer::getval”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(20): error C2511: “int buffer::getval(int,int)”:“buffer”中没有找到重载的成员函数
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(9): note: 参见“buffer”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(23): error C2146: 语法错误: 缺少“;”(在标识符“str”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(23): error C2065: “str”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(25): error C2065: “start”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(25): error C2059: 语法错误:“=”
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(28): error C2065: “start”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(29): error C2065: “str”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(29): error C2597: 对非静态成员“buffer::value”的非法引用
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(29): error C3867: “buffer::value”: 非标准语法；请使用 "&" 来创建指向成员的指针
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(29): error C2109: 下标要求数组或指针类型
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(32): error C2065: “str”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(38): error C2039: “getvalue”: 不是“buffer”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(9): note: 参见“buffer”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(43): error C2065: “value”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(48): error C2248: “buffer::buffer”: 无法访问 private 成员(在“buffer”类中声明)
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(11): note: 参见“buffer::buffer”的声明
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(9): note: 参见“buffer”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(58): error C2248: “buffer::~buffer”: 无法访问 private 成员(在“buffer”类中声明)
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(12): note: 参见“buffer::~buffer”的声明
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(9): note: 参见“buffer”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(67): error C2146: 语法错误: 缺少“)”(在标识符“filename”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(67): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(67): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(79): error C2146: 语法错误: 缺少“)”(在标识符“filename”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(79): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(79): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(92): error C2146: 语法错误: 缺少“)”(在标识符“filename”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(92): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(92): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(105): error C2761: “void BufferManager::write_back(int)”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(105): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(175): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(177): error C3861: “write_Back”: 找不到标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(183): error C2146: 语法错误: 缺少“)”(在标识符“filename”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(183): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(183): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(216): error C2039: “GetPositionForInsert”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(216): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(216): error C2146: 语法错误: 缺少“;”(在标识符“GetPositionForInsert”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(216): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(216): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(264): error C2065: “Table”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(264): error C2065: “files”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(264): error C2761: “int BufferManager::AddAnotherBlock(void)”: 不允许重新声明成员
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(264): error C2448: “BufferManager::AddAnotherBlock”: 函数样式初始值设定项类似函数定义
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(285): error C2027: 使用了未定义类型“BuffManager”
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(10): note: 参见“BuffManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(285): error C2065: “Index”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(285): error C2065: “indexs”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(285): error C2448: “AddAnotherBlock”: 函数样式初始值设定项类似函数定义
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(307): error C2039: “scanIn”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(307): error C2065: “Table”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(307): error C2146: 语法错误: 缺少“)”(在标识符“files”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(307): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(307): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(329): error C2146: 语法错误: 缺少“)”(在标识符“filename”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(329): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.cpp(329): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  Record_Manager.cpp
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(74): error C2039: “scanIn”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(117): error C2039: “getInsertPosition”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(120): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(148): error C2039: “setInvalid”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(163): error C2039: “scanIn”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(172): error C2065: “MAXBLOCKNUMBER”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(175): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(177): error C2065: “BLOCKSIZE”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(179): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(189): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(216): error C2039: “scanIn”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(228): error C2065: “MAXBLOCKNUMBER”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(231): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(234): error C2065: “BLOCKSIZE”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(236): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(250): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(258): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(295): error C2039: “scanIn”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(319): error C2065: “MAXBLOCKNUMBER”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(322): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(324): error C2065: “BLOCKSIZE”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(327): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(336): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(409): error C2039: “scanIn”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(429): error C2065: “MAXBLOCKNUMBER”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(432): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(435): error C2065: “BLOCKSIZE”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(437): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(444): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(495): error C2065: “MAXBLOCKNUMBER”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(498): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(500): error C2065: “BLOCKSIZE”: 未声明的标识符
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(502): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\record_manager.cpp(506): error C2039: “bufferBlock”: 不是“BufferManager”的成员
+  g:\当前学期课程\数据库系统\实验文件及作业提交\pro\minisql\minisql\mybuffer.h(28): note: 参见“BufferManager”的声明
+  正在生成代码...
